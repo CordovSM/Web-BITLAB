@@ -1,0 +1,43 @@
+.home-banner{
+    background-image: url(img/banners/banner.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+body {
+  margin: 0;
+}
+
+h1 {
+  font-size: 2em;
+  margin: .67em 0;
+}
+
+img {
+  border-style: none;
+}
+
+button,
+[role=button] {
+  cursor: pointer;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+.container {
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 1rem;
+  padding-left: 1rem;
+}
+
+
+
+
+
+
+
+
